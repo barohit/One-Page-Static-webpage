@@ -1,0 +1,12 @@
+#firstpara {font-family: Arial, sans-serif;
+text-indent: 10px;}
+
+#secondpara {font-weight: 30px;
+			color: red;
+			background-color: green;}
+
+#linkz {float: right;}
+
+body {background-color: teal;}
+
+h1 {text-align: center;}
