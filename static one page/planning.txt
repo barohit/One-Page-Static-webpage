@@ -1,0 +1,13 @@
+Main page 
+	what my skills are
+		front end
+			HTML
+			CSS
+			JAVAScript
+		back end
+			Java
+			SQL
+		Linux administration. 
+			
+		I want to get into machine learning. 
+		I want to get into mobile application development. 
